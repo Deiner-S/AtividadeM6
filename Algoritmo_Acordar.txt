@@ -1,0 +1,27 @@
+INICIO
+1 Abrir os olhos
+2 Desligar despertador
+3 Está muito cansado ? se sim
+	1 colocar despertador para as 10h
+  se não 
+	1 Levantar da cama as 9:05
+4 Trocar de roupa
+5 Escovar os dentes
+6 Lavar o rosto
+7 Ir para cozinha
+8 Abrir gaveta de bolachas
+9 Foi encontrado bolachas ? se sim
+	1 Pegar bolacha colocar em uma tigela
+	2 Pegar 700ml de água em um copo grande
+  se não 
+	1 Pegar carteira 
+	2 Direcionar-se a saída do apartamento
+	3 Abrir a porta
+	4 Descer pelo elevador 
+	5 ir ao mercadinho da esquina
+	6 comprar bolacha
+	7 voltar para o apartamento
+10 sentar no computador
+11 Estudar
+FIM   
+	
